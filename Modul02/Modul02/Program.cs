@@ -6,7 +6,7 @@ namespace Modul02
 	{
 		public static void Main(string[] args)
 		{
-			//Дефиниране на променливи
+			//Дефиниране напроменливи
 
 
 			//Събиране на числа
@@ -14,6 +14,6 @@ namespace Modul02
 
 			//Писане в конзола
 
-			}
+		}
 	}
 }

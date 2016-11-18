@@ -6,7 +6,7 @@ namespace Modul02
 	{
 		public static void Main(string[] args)
 		{
-			//Дефиниране напроменливи
+			//Дефиниране на променливи
 
 
 			//Събиране на числа
